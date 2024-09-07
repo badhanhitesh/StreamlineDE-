@@ -29,7 +29,7 @@
 
 ## 📐 System Architecture
 
-![Architecture Diagram](https://yourimageurl.com/architecture-diagram.png)
+![Architecture Diagram](https://github.com/badhanhitesh/StreamlineDE-/blob/main/Data%20engineering%20architecture.png)
 
 ### Key Components:
 
